@@ -1,0 +1,103 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.menu-principal {
+  width: 100%;
+  background-color: rgb(252, 249, 249);
+  height: 60px;
+}
+main {
+  margin: 0 auto;
+  position: relative;
+  width: 980px;
+}
+.logo {
+  padding: 16px;
+  float: left;
+  width: 70%;
+}
+
+.redes-sociais ul li {
+  margin-left: 9px;
+  display: inline-block;
+  list-style: none;
+}
+.redes-sociais {
+  width: 25%;
+  float: right;
+}
+
+.header2 {
+  width: 100%;
+  margin: 0 auto;
+}
+.menu-url {
+  height: 50px;
+  background-color: rgb(29, 35, 112);
+  position: fixed;
+  transition: linear;
+}
+.menu ul li {
+  margin-left: 120px;
+  list-style: none;
+  display: inline-block;
+}
+.menu ul li:hover {
+  border-bottom: 1px solid;
+}
+.menu ul li a:hover {
+  color: rgb(255, 255, 255);
+}
+.menu ul li a {
+  color: rgb(252, 252, 252);
+  text-decoration: none;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-style: unset;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.col1 {
+  width: 100%;
+  float: left;
+  position: relative;
+}
+.text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 150px;
+  margin-left: 120px;
+  height: 150px;
+  width: 200px;
+  font-size: 22px;
+}
+
+p {
+  margin-left: 120px;
+  height: 50px;
+  width: 290px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.box img {
+  margin-right: 150px;
+  margin-top: -120px;
+}
+H2 {
+  color: rgb(235, 216, 44);
+  width: 190px;
+  font-size: 20px;
+}
+.sobre p {
+  margin-top: 200px;
+  float: left;
+  width: 400px;
+}
+.sobre img {
+  margin-top: 100px;
+  margin-left: 70px;
+  margin-bottom: 45px;
+}
